@@ -57,7 +57,7 @@ Weather Dashboard application built with vanilla JavaScript. The app lets you se
 - **Duplicate function names:** `getUserData` and `showLoading` existed in both Task 11 and Task 12. Fixed by keeping practice files separate and not loading them together in `index.html`.
 
 ## Screenshots (optional)
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](Screenshot_20261112-010804.png)
 
 ## Live Demo (if deployed)
 [View Live Demo](https://preciousndegwa48.github.io/iyf-s12-week-06-preciousndegwa48/)
