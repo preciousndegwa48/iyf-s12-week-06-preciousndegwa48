@@ -60,4 +60,4 @@ Weather Dashboard application built with vanilla JavaScript. The app lets you se
 ![Weather Dashboard Screenshot](screenshot.png)
 
 ## Live Demo (if deployed)
-[View Live Demo](https://preciousndegwa48.github.io/weather-dashboard/)
+[View Live Demo](https://preciousndegwa48.github.io/iyf-s12-week-06-preciousndegwa48/)
